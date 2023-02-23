@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Pablo Nunez, alias Ennzu.
+### Hi there 👋 I'm Pablo Núñez, alias Ennzu.
 
 # 💫 About Me:
 🔭 I'm currently working on SIEP Jalisco Website<br>👯 I'm looking to collaborate on websites development<br>🤝 I'm looking for help with Flutter development<br>🌱 I'm currently learning Solidity and web3 development<br>💬 Ask me about anything<br>⚡️ Fun fact: I've been coding since i was 15
